@@ -1,0 +1,43 @@
+@media screen and (max-width: 570px) {
+    #services {
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 580px) {
+    #navbar ul{flex-direction: column;
+        flex-direction: column;
+    }
+
+}
+@media screen and (max-width: 480px) {
+    #navbar ul li a{font-size: 0.5rem;
+        font-size: 2rem;
+    }
+}
+
+
+@media screen and (max-width: 580px) {
+    #home {
+        height: 380px;
+        left: 0px;
+    }
+}
+@media screen and (max-width: 480px) {
+    #home p{
+        font-size: 13px;
+        height: 10px;
+    }
+}
+@media screen and (max-width: 480px) {
+    #client{
+        flex-wrap: wrap;
+
+    }
+}
+@media screen and (max-width: 480px) {
+    #client img{
+       width: 66px;
+       padding: 6px;
+       height: auto;
+    }
+}
